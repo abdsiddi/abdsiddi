@@ -84,7 +84,7 @@
 <text x="556" y="454" class="mono" font-size="14" xml:space="preserve"><tspan fill="#afb8c1">. </tspan><tspan fill="#0e7490" font-weight="700">Mail</tspan><tspan fill="#afb8c1">: .................... </tspan><tspan fill="#1f2328">muhammad.abdullah.siddiqu@gmail.com</tspan></text>
 <text x="556" y="480" class="mono" font-size="14" xml:space="preserve"><tspan fill="#afb8c1">. </tspan><tspan fill="#0e7490" font-weight="700">GitHub</tspan><tspan fill="#afb8c1">: .................. </tspan><tspan fill="#1f2328">github.com/abdsiddi</tspan></text>
 <text x="556" y="506" class="mono" font-size="14" xml:space="preserve"><tspan fill="#afb8c1">. </tspan><tspan fill="#0e7490" font-weight="700">LinkedIn</tspan><tspan fill="#afb8c1">: ................ </tspan><tspan fill="#1f2328">in/muhammad-abdullah-siddiqui-1b449a3ab</tspan></text>
-<text x="556" y="532" class="mono" font-size="14" xml:space="preserve"><tspan fill="#afb8c1">. </tspan><tspan fill="#0e7490" font-weight="700">Instagram</tspan><tspan fill="#afb8c1">: ............... </tspan><tspan fill="#1f2328">@abdsiwdi</tspan></text>
+<text x="556" y="532" class="mono" font-size="14" xml:space="preserve"><tspan fill="#afb8c1">. </tspan><tspan fill="#0e7490" font-weight="700">Instagram</tspan><tspan fill="#afb8c1">: ............... </tspan><tspan fill="#1f2328">@abdsiddi</tspan></text>
 <text x="556" y="570" class="mono" font-size="14" fill="#0e7490">$ <tspan fill="#1f2328">tail -f /var/log/alerts</tspan><tspan class="blink" fill="#0e7490"> █</tspan></text>
 
 <rect x="2" y="0" width="1196" height="90" fill="url(#beam)" opacity=".5">

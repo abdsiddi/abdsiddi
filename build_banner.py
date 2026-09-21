@@ -27,7 +27,7 @@ INFO = [
     ("Mail", "muhammad.abdullah.siddiqu@gmail.com"),
     ("GitHub", "github.com/abdsiddi"),
     ("LinkedIn", "in/muhammad-abdullah-siddiqui-1b449a3ab"),
-    ("Instagram", "@abdsiwdi"),
+    ("Instagram", "@abdsiddi"),
 ]
 
 THEMES = {
