@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" width="1200" height="620" role="img" aria-label="Muhammad Abdullah Siddiqui - SOC analyst in training">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6f8fa"/><stop offset="1" stop-color="#eaeef2"/></linearGradient>
+<linearGradient id="rim" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset=".55" stop-color="#0891b2"/><stop offset="1" stop-color="#059669"/></linearGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0ea5e9" stop-opacity="0"/><stop offset=".5" stop-color="#0ea5e9" stop-opacity=".55"/><stop offset="1" stop-color="#0ea5e9" stop-opacity="0"/></linearGradient>
+<clipPath id="win"><rect x="2" y="2" width="1196" height="616" rx="16"/></clipPath>
+<style>
+.mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+.blink{animation:blink 1.1s steps(2,start) infinite}
+@keyframes blink{to{visibility:hidden}}
+</style>
+</defs>
+<rect x="2" y="2" width="1196" height="616" rx="16" fill="url(#bg)" stroke="url(#rim)" stroke-width="3"/>
+<g clip-path="url(#win)">
+<rect x="2" y="2" width="1196" height="44" fill="#ffffff" opacity=".7"/>
+<circle cx="26" cy="24" r="6.5" fill="#ff5f57"/><circle cx="46" cy="24" r="6.5" fill="#febc2e"/><circle cx="66" cy="24" r="6.5" fill="#28c840"/>
+<text x="600.0" y="29" text-anchor="middle" class="mono" font-size="13" fill="#57606a">abdsiddi@soc ~ % ./profile.sh --live</text>
+<circle cx="1052" cy="24" r="5" fill="#dc2626"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="1064" y="28" class="mono" font-size="11" fill="#dc2626" letter-spacing="1.5">SCANNING</text>
+
+<rect x="14" y="66" width="500" height="522" rx="12" fill="#ffffff" fill-opacity=".55" stroke="#0e7490" stroke-opacity=".6"/>
+<text x="30" y="60" class="mono" font-size="11" fill="#0e7490" letter-spacing="2">VISUAL.MAP</text>
+<text class="mono" font-size="7.6" fill="#1e3a8a" xml:space="preserve">
+<tspan x="82.3" y="94.4">             ..... .....      . :==:.       . .::.</tspan>
+<tspan x="82.3" y="105.0">             .. ....:::.  ..   .:=*=: ..  .  :-.....</tspan>
+<tspan x="82.3" y="115.6">                     ... ...   ..---. .:.  .:=. :.....</tspan>
+<tspan x="82.3" y="126.2">                    .::..  .  ..    .      ... :==:::..    ..</tspan>
+<tspan x="82.3" y="136.8">      .     .:     .:::::.  ..              ..:=-==-.     ...:.</tspan>
+<tspan x="82.3" y="147.4">     .....  :--...  ..::.:...        .....  ...:--+.      ---=:</tspan>
+<tspan x="82.3" y="158.0">   ..:::.:..:--:..... ......      .::-=--::... -:::.    . .-==: .    .</tspan>
+<tspan x="82.3" y="168.6">   .:....    .:.. .........     .:-=======----:-:.:. .     .:-...   ..</tspan>
+<tspan x="82.3" y="179.2">   ..  ...  .:-:...:....      .:-=+*#**++======-::.:...     :..    .</tspan>
+<tspan x="82.3" y="189.8">  ....:-.  ...........      .:=+**######*+======-:::..... ... .   ...</tspan>
+<tspan x="82.3" y="200.4">  ..:--=-:--.   ..      .:-=+*#####***##*==========---:... .:. .  .   .  .</tspan>
+<tspan x="82.3" y="211.0">....:==:--=+-.         =@@%###*********+===============---:.... . . ..</tspan>
+<tspan x="82.3" y="221.6">.....:=+- :===-      :*@@@%####**#####*===============-=+==-::....   .....</tspan>
+<tspan x="82.3" y="232.2">......-++:--....    +@@%#*+-:...:-=+++++===============-==-=--:::....</tspan>
+<tspan x="82.3" y="242.8">......:-++-=-:..   *@%%####+-.       .:==++=============--=----:::........</tspan>
+<tspan x="82.3" y="253.4">........:==--...  +%####%%%####+=-.      .-=++================-:::........</tspan>
+<tspan x="82.3" y="264.0">::.........++--..+%##**#*=++++====++=---:...-==================-::........</tspan>
+<tspan x="82.3" y="274.6">:::.......:=-*=:*##*+=+++=:+#-     .:-=+*+=--=+=====++=+==+++++=::::.....</tspan>
+<tspan x="82.3" y="285.2">:::.....::--++:*#*#+===+#@#++:    ++  ..:=**+++====+=:::.....:::::::::...</tspan>
+<tspan x="82.3" y="295.8">:::......=+++:=#***++=::-+***=-:..::.  ...=#%+===---:.:..         ...:...</tspan>
+<tspan x="82.3" y="306.4">::::....-%*+::*****+++-:::::-:::::......:=#@@*=-:..........::::..     ...</tspan>
+<tspan x="82.3" y="317.0">:::::...:##+:+****#*++=--------====---=*#%@@#==-.......::..::--==-:... .</tspan>
+<tspan x="82.3" y="327.6">:::::... :+-=#***#*++=====-------==-=*%%%%%#+==:.......*+ .   -:.:::::.</tspan>
+<tspan x="82.3" y="338.2">:::::... .=-*#*###++=======-----::-=*####%#+===......:::::...+#-  .:::.</tspan>
+<tspan x="82.3" y="348.8">::::::...-=+#####*+=----==----:::-=*######*===:....:::::::-:::....::::</tspan>
+<tspan x="82.3" y="359.4">.........==*#####+-::::-=====-=#%%#####***++==:....:==-::::::::.:::::.</tspan>
+<tspan x="82.3" y="370.0">........:==*###*+:     ..-===-*@@%@@%###*++++=:. .:-======---:::::::.</tspan>
+<tspan x="82.3" y="380.6">.........=++#%##=.          ..:-=-=#@@%#+***+=--:.:=++=++++===-::::.   .</tspan>
+<tspan x="82.3" y="391.2">.......  ==+*##*-.      -=-:       :+@@%**+===+++.:=++++++==+=-:::.   ..</tspan>
+<tspan x="82.3" y="401.8">..      .-+=+***=.   .:::=%%*=:      .-=:.  .:--::-=+++++++===-::. ..</tspan>
+<tspan x="82.3" y="412.4"> .:----=--==+***=-...=+#%**%#*+-:.:::...       ..:--=++++++=-::::...</tspan>
+<tspan x="82.3" y="423.0">:--:-==:  =--===--:..=*%@@@@@#-:-::::::-:...      ...-=++==-::::</tspan>
+<tspan x="82.3" y="433.6">-.  ..   =-+---::::..:=*#%@@@@#--------:::::::..      :---::::.</tspan>
+<tspan x="82.3" y="444.2">.       :::#+-:.::::.:-+##%#+==----=====-::....:..    :--:::.</tspan>
+<tspan x="82.3" y="454.8">       .: =**=:.:-==----+++=.    .:::----------::.   .:-::..</tspan>
+<tspan x="82.3" y="465.4">       .  +***: :-+++==---:.           ..------:.....::...</tspan>
+<tspan x="82.3" y="476.0">       .  +++*+-..:===-----....... ....:-----::........</tspan>
+<tspan x="82.3" y="486.6">       .  -++++=: .:-:==--..........::::::::.........     .</tspan>
+<tspan x="82.3" y="497.2">       .. .-=++==:  .:+=-.:..........:......    .    .....</tspan>
+<tspan x="82.3" y="507.8">        .  .:=====:  .:..... . .............   ..........</tspan>
+<tspan x="82.3" y="518.4">             .-====:.             .....   .............</tspan>
+<tspan x="82.3" y="529.0">              .:-==-:-:.               ...::..........</tspan>
+<tspan x="82.3" y="539.6">               ..:-::::::::...   .....:::............</tspan>
+<tspan x="82.3" y="550.2">                ..::::..::----::::::::.............   ..</tspan>
+</text>
+
+<rect x="530" y="66" width="656" height="522" rx="12" fill="#ffffff" fill-opacity=".55" stroke="#0e7490" stroke-opacity=".6"/>
+<text x="546" y="60" class="mono" font-size="11" fill="#0e7490" letter-spacing="2">SYSTEM.INFO</text>
+<text x="556" y="104" class="mono" font-size="17" font-weight="700" fill="#6d28d9">abdsiddi@soc <tspan fill="#afb8c1" font-weight="400">────────────────────────────────────────</tspan></text>
+<text x="556" y="132" class="mono" font-size="15"><tspan fill="#afb8c1">. </tspan><tspan fill="#0e7490" font-weight="700">Subject</tspan><tspan fill="#afb8c1">: ................. </tspan><tspan fill="#1f2328">Muhammad Abdullah Siddiqui</tspan></text>
+<text x="556" y="166" class="mono" font-size="15"><tspan fill="#afb8c1">. </tspan><tspan fill="#0e7490" font-weight="700">Role</tspan><tspan fill="#afb8c1">: .................... </tspan><tspan fill="#1f2328">SOC Analyst in Training</tspan></text>
+<text x="556" y="200" class="mono" font-size="15"><tspan fill="#afb8c1">. </tspan><tspan fill="#0e7490" font-weight="700">Origin</tspan><tspan fill="#afb8c1">: .................. </tspan><tspan fill="#1f2328">Rawalpindi, Pakistan</tspan></text>
+<text x="556" y="234" class="mono" font-size="15"><tspan fill="#afb8c1">. </tspan><tspan fill="#0e7490" font-weight="700">Education</tspan><tspan fill="#afb8c1">: ............... </tspan><tspan fill="#1f2328">BSc Cybersecurity, Air University (2027)</tspan></text>
+<text x="556" y="268" class="mono" font-size="15"><tspan fill="#afb8c1">. </tspan><tspan fill="#0e7490" font-weight="700">Status</tspan><tspan fill="#afb8c1">: .................. </tspan><tspan fill="#1f2328">Detecting • Hunting • Learning</tspan></text>
+<text x="556" y="302" class="mono" font-size="15"><tspan fill="#afb8c1">. </tspan><tspan fill="#0e7490" font-weight="700">ToolChain</tspan><tspan fill="#afb8c1">: ............... </tspan><tspan fill="#1f2328">Splunk, Elastic, Sysmon</tspan></text>
+<text x="556" y="352" class="mono" font-size="15"><tspan fill="#afb8c1">. </tspan><tspan fill="#0e7490" font-weight="700">Detections</tspan><tspan fill="#afb8c1">: .............. </tspan><tspan fill="#1f2328">KQL · MITRE ATT&amp;CK</tspan></text>
+<text x="556" y="386" class="mono" font-size="15"><tspan fill="#afb8c1">. </tspan><tspan fill="#0e7490" font-weight="700">Cloud</tspan><tspan fill="#afb8c1">: ................... </tspan><tspan fill="#1f2328">AWS · EC2 · IaC · Honeypots</tspan></text>
+<text x="556" y="420" class="mono" font-size="15"><tspan fill="#afb8c1">. </tspan><tspan fill="#0e7490" font-weight="700">Network</tspan><tspan fill="#afb8c1">: ................. </tspan><tspan fill="#1f2328">OSPF · EIGRP · VLAN · Firewalls</tspan></text>
+<text x="556" y="470" class="mono" font-size="15"><tspan fill="#afb8c1">. </tspan><tspan fill="#0e7490" font-weight="700">Open.To</tspan><tspan fill="#afb8c1">: ................. </tspan><tspan fill="#1f2328">SOC &amp; Cloud Security roles</tspan></text>
+<text x="556" y="530" class="mono" font-size="15" fill="#0e7490">$ <tspan fill="#1f2328">tail -f /var/log/alerts</tspan><tspan class="blink" fill="#0e7490"> █</tspan></text>
+
+<rect x="2" y="0" width="1196" height="90" fill="url(#beam)" opacity=".5">
+<animateTransform attributeName="transform" type="translate" values="0,20;0,530;0,20" dur="7s" repeatCount="indefinite"/>
+</rect>
+</g>
+</svg>
