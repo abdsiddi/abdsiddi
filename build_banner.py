@@ -32,7 +32,7 @@ INFO = [
 
 THEMES = {
     "dark": dict(bg1="#0a0f1e", bg2="#070b16", panel="#0d1526", border="#1f6f8b", accent="#a78bfa",
-                 key="#800080", val="#e6edf3", dot="#3b4a63", art="#6f9bff", title="#7d8590",
+                 key="#22d3ee", val="#e6edf3", dot="#3b4a63", art="#6f9bff", title="#7d8590",
                  scan="#7dd3fc", grad=("#8b5cf6", "#22d3ee", "#10b981"), live="#f87171"),
     "light": dict(bg1="#f6f8fa", bg2="#eaeef2", panel="#ffffff", border="#0e7490", accent="#6d28d9",
                   key="#0e7490", val="#1f2328", dot="#afb8c1", art="#1e3a8a", title="#57606a",
