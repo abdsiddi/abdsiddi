@@ -22,6 +22,12 @@ INFO = [
     ("Network", "OSPF · EIGRP · VLAN · Firewalls"),
     None,
     ("Open.To", "SOC & Cloud Security roles"),
+    None,
+    ("#", "Contact"),
+    ("Mail", "muhammad.abdullah.siddiqu@gmail.com"),
+    ("GitHub", "github.com/abdsiddi"),
+    ("LinkedIn", "in/muhammad-abdullah-siddiqui-1b449a3ab"),
+    ("Instagram", "@abdsiwdi"),
 ]
 
 THEMES = {
@@ -47,16 +53,23 @@ def build(name, t):
     rows, y = [], 132
     for item in INFO:
         if item is None:
-            y += 16
+            y += 12
             continue
         k, v = item
+        if k == "#":  # section header, like the top of the panel
+            rows.append(
+                f'<text x="556" y="{y}" class="mono" font-size="14" font-weight="700" fill="{t["accent"]}">- {escape(v)} '
+                f'<tspan fill="{t["dot"]}" font-weight="400">{"─" * 44}</tspan></text>'
+            )
+            y += 26
+            continue
         dots = "." * max(3, 24 - len(k))
         rows.append(
-            f'<text x="556" y="{y}" class="mono" font-size="15">'
+            f'<text x="556" y="{y}" class="mono" font-size="14" xml:space="preserve">'
             f'<tspan fill="{t["dot"]}">. </tspan><tspan fill="{t["key"]}" font-weight="700">{escape(k)}</tspan>'
             f'<tspan fill="{t["dot"]}">: {dots} </tspan><tspan fill="{t["val"]}">{escape(v)}</tspan></text>'
         )
-        y += 34
+        y += 26
     info = "\n".join(rows)
     g1, g2, g3 = t["grad"]
     return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="Muhammad Abdullah Siddiqui - SOC analyst in training">
@@ -89,7 +102,7 @@ def build(name, t):
 <text x="546" y="60" class="mono" font-size="11" fill="{t["border"]}" letter-spacing="2">SYSTEM.INFO</text>
 <text x="556" y="104" class="mono" font-size="17" font-weight="700" fill="{t["accent"]}">abdsiddi@soc <tspan fill="{t["dot"]}" font-weight="400">{"─" * 40}</tspan></text>
 {info}
-<text x="556" y="{y + 26}" class="mono" font-size="15" fill="{t["key"]}">$ <tspan fill="{t["val"]}">tail -f /var/log/alerts</tspan><tspan class="blink" fill="{t["key"]}"> █</tspan></text>
+<text x="556" y="{y + 12}" class="mono" font-size="14" fill="{t["key"]}">$ <tspan fill="{t["val"]}">tail -f /var/log/alerts</tspan><tspan class="blink" fill="{t["key"]}"> █</tspan></text>
 
 <rect x="2" y="0" width="{W - 4}" height="90" fill="url(#beam)" opacity=".5">
 <animateTransform attributeName="transform" type="translate" values="0,20;0,{H - 90};0,20" dur="7s" repeatCount="indefinite"/>
