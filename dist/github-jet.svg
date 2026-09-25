@@ -244,8 +244,8 @@
 <rect x="482" y="29" width="11" height="11" rx="2" fill="#216e39"><animate attributeName="fill" dur="20s" repeatCount="indefinite" keyTimes="0;0.48;0.486;0.52;0.526;1" values="#216e39;#216e39;#39d353;#216e39;#39d353;#216e39"/></rect>
 <rect x="482" y="43" width="11" height="11" rx="2" fill="#9be9a8"/>
 <rect x="482" y="57" width="11" height="11" rx="2" fill="#9be9a8"><animate attributeName="fill" dur="20s" repeatCount="indefinite" keyTimes="0;0.48;0.486;0.52;0.526;1" values="#9be9a8;#9be9a8;#39d353;#9be9a8;#39d353;#9be9a8"/></rect>
-<rect x="482" y="71" width="11" height="11" rx="2" fill="#ebedf0"/>
-<rect x="482" y="85" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="482" y="71" width="11" height="11" rx="2" fill="#9be9a8"/>
+<rect x="482" y="85" width="11" height="11" rx="2" fill="#ebedf0"/>
 <rect x="482" y="99" width="11" height="11" rx="2" fill="#161b22"/>
 </g>
 <g>
