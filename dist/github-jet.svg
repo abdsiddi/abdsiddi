@@ -245,8 +245,8 @@
 <rect x="482" y="43" width="11" height="11" rx="2" fill="#9be9a8"/>
 <rect x="482" y="57" width="11" height="11" rx="2" fill="#9be9a8"/>
 <rect x="482" y="71" width="11" height="11" rx="2" fill="#9be9a8"/>
-<rect x="482" y="85" width="11" height="11" rx="2" fill="#ebedf0"/>
-<rect x="482" y="99" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="482" y="85" width="11" height="11" rx="2" fill="#9be9a8"/>
+<rect x="482" y="99" width="11" height="11" rx="2" fill="#ebedf0"/>
 </g>
 <g>
 <circle cx="445.5" cy="128" r="2.4" fill="#7ee787" opacity="0"><animate attributeName="cy" dur="20s" repeatCount="indefinite" keyTimes="0;0.4202;0.4382;1" values="128;128;20.5;20.5"/><animate attributeName="opacity" dur="20s" repeatCount="indefinite" keyTimes="0;0.4202;0.4382;0.4442;1" values="0;1;1;0;0"/></circle>
